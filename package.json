@@ -1,0 +1,22 @@
+{
+  "name": "gualdronsito",
+  "version": "1.0.0",
+  "description": "\"Este es mi primer modulo de prueba\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresFelipeGualdron/my-module-npm.git"
+  },
+  "keywords": [
+    "gualdron"
+  ],
+  "author": "\"Andres Gualdron\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndresFelipeGualdron/my-module-npm/issues"
+  },
+  "homepage": "https://github.com/AndresFelipeGualdron/my-module-npm#readme"
+}
